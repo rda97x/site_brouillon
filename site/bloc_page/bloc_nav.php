@@ -16,14 +16,12 @@
 -->
 
 <body>
-	<nav>
-		<h1>Menu</h1>
-		<a href="#">Vue générale</a>
-		<a href="#">Gestion des pièces</a>
-		<a href="#">Gestion des capteurs</a>
-		<a href="#">Profil utilisateur</a>
-		<a href="#">Consommation énergétique</a>
-	</nav>
-
+	<h1>Menu</h1>
+	<a href="#">Vue générale</a>
+	<a href="#">Gestion des pièces</a>
+	<a href="#">Gestion des capteurs</a>
+	<a href="#">Profil utilisateur</a>
+	<a href="#">Consommation énergétique</a>
 </body>
+
 </html>
