@@ -8,8 +8,8 @@
 <!--Gestion des capteurs
 	C'est la page qui permettra de gérer ses capteurs (ajout/suppression)
 	Cette page comporte :
-		- un formulaire permettant de choisir ou d'ajouter oud de supprimer un capteur:
-			- si l'option d'ajout est choisie : un formulaire d'ajout de capteur
+		- un formulaire permettant de choisir ou d'ajouter ou de supprimer un capteur:
+			- si l'option d'ajout est choisie : formulaire d'ajout de capteur
 			- si l'option de suppression est choisie : checkbox pour choisir le capteur à supprimer (ou les capteurs)
 		- un lien vers le catalogue de capteurs (catalogue Domisep)
 -->
