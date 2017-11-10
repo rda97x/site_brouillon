@@ -44,6 +44,12 @@
 
 		<input type="submit" name="envoyer_suppression" value="Supprimer">
 	</form>
+	<br/>
+
+	<div id="catalogue">
+		<p>Besoin de capteurs ?</p>
+		<a href="#">Catalogue Domisep</a>
+	</div>
 
 </body>
 </html>
